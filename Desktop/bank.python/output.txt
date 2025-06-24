@@ -1,1 +1,0 @@
-1001:{'name': 'janagan', 'balance': 500.0, 'transactions': [('Initial Deposit', 500.0)], 'password': '123'}
