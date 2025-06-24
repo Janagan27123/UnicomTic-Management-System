@@ -1,0 +1,19 @@
+{
+    "users": {
+        "jana": {
+            "password": "123",
+            "balance": 1000.0,
+            "transactions": [
+                {
+                    "type": "Deposit",
+                    "amount": 1000.0,
+                    "time": "2025-05-10 21:06:23.802089"
+                }
+            ]
+        }
+    },
+    "admin": {
+        "username": "admin",
+        "password": "admin123"
+    }
+}
